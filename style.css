@@ -2,7 +2,9 @@ body {background: #efefef url(images/naturalblack.png); margin: 0; padding: 0;
 font: 20px/24px Arial, sans-serif;}
 a{text-decoration: none;}
 
-/*шапка*/
+/*шапка
+
+*/
 div.mid{margin: 0 auto;}
 .header{background: #080808;
 height: 120px;}
